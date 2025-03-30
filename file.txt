@@ -1,0 +1,264 @@
+    1  ls
+    2  clear
+    3  sudo apt update
+    4  g++ --version
+    5  apt install g++
+    6  g++ --version
+    7  clear
+    8  ls
+    9  nano watermelon.cpp
+   10  g++ watermelon.cpp -o watermelon
+   11  ./watermelon
+   12  clear
+   13  nano watermelon.cpp 
+   14  g++ watermelon.cpp -o watermelon
+   15  ./watermelon
+   16  nano watermelon.cpp 
+   17  g++ watermelon.cpp -o watermelon
+   18  nano watermelon.cpp 
+   19  g++ watermelon.cpp -o watermelon
+   20  nano watermelon.cpp 
+   21  g++ watermelon.cpp -o watermelon
+   22  nano watermelon.cpp 
+   23  g++ watermelon.cpp -o watermelon
+   24  nano watermelon.cpp 
+   25  g++ watermelon.cpp -o watermelon
+   26  ./watermelon
+   27  nano watermelon.cpp 
+   28  ls
+   29  cd Videos/
+   30  ls
+   31  cd problems/
+   32  ls
+   33  clear
+   34  rm watermelon
+   35  ls
+   36  clear
+   37  nano watermelon.cpp 
+   38  g++ watermelon.cpp -o watermelon
+   39  ./watermelon
+   40  nano watermelon.cpp 
+   41  nano wordstoolong.cpp
+   42  g++ wordstoolong.cpp -o wordstoolong
+   43  ./wordstoolong
+   44  nano wordstoolong.cpp
+   45  g++ wordstoolong.cpp -o wordstoolong
+   46  nano wordstoolong.cpp
+   47  g++ wordstoolong.cpp -o wordstoolong
+   48  ./wordstoolong
+   49  nano wordstoolong.cpp
+   50  g++ wordstoolong.cpp -o wordstoolong
+   51  ./wordstoolong
+   52  nano wordstoolong.cpp
+   53  g++ wordstoolong.cpp -o wordstoolong
+   54  ./wordstoolong
+   55  nano team.cpp
+   56  g++ team.cpp -o team
+   57  nano team.cpp 
+   58  g++ team.cpp -o team
+   59  ./team
+   60  clear
+   61  ./team
+   62  nano team.cpp 
+   63  ./team
+   64  nano team.cpp 
+   65  ./team
+   66  nano bits.cpp
+   67  g++ bits.cpp -o bits
+   68  nano bits.cpp
+   69  g++ bits.cpp -o bits
+   70  ./bits
+   71  nano nextround.cpp
+   72  g++ nextround.cpp -o nextround
+   73  nano nextround.cpp 
+   74  g++ nextround.cpp -o nextround
+   75  nano nextround.cpp 
+   76  g++ nextround.cpp -o nextround
+   77  ./nextround
+   78  nano nextround.cpp 
+   79  g++ nextround.cpp -o nextround
+   80  ./nextround
+   81  nano nextround.cpp 
+   82  g++ nextround.cpp -o nextround
+   83  ./nextround
+   84  nano nextround.cpp 
+   85  g++ nextround.cpp -o nextround
+   86  ./nextround
+   87  nano nextround.cpp 
+   88  g++ nextround.cpp -o nextround
+   89  ./nextround
+   90  nano nextround.cpp 
+   91  g++ nextround.cpp -o nextround
+   92  ./nextround
+   93  nano dominos.cpp
+   94  g++ dominos.cpp -o dominos
+   95  ./dominos
+   96  nano beautifulmatrix.cpp
+   97  ls
+   98  clear
+   99  g++ beautifulmatrix.cpp -o beautifulmatrix
+  100  ./beautifulmatrix
+  101  nano beautifulmatrix.cpp
+  102  g++ beautifulmatrix.cpp -o beautifulmatrix
+  103  ./beautifulmatrix
+  104  nano beautifulmatrix.cpp
+  105  g++ beautifulmatrix.cpp -o beautifulmatrix
+  106  ./beautifulmatrix
+  107  nano pstrings.cpp
+  108  g++ pstrings.cpp -o pstrings
+  109  clear
+  110  nano pstrings.cpp
+  111  g++ pstrings.cpp -o pstrings
+  112  ./pstrings
+  113  clear
+  114  nano pstrings.cpp 
+  115  g++ pstrings.cpp -o pstrings
+  116  ./pstrings
+  117  nano pstrings.cpp 
+  118  g++ pstrings.cpp -o pstrings
+  119  ./pstrings
+  120  nano pstrings.cpp 
+  121  g++ pstrings.cpp -o pstrings
+  122  ./pstrings
+  123  nano helpfulmaths.cpp
+  124  g++ helpfulmaths.cpp -o helpfulmaths
+  125  nano helpfulmaths.cpp 
+  126  g++ helpfulmaths.cpp -o helpfulmaths
+  127  nano helpfulmaths.cpp 
+  128  g++ helpfulmaths.cpp -o helpfulmaths
+  129  ./helpfulmaths
+  130  nano helpfulmaths.cpp 
+  131  g++ helpfulmaths.cpp -o helpfulmaths
+  132  ./helpfulmaths
+  133  nano helpfulmaths.cpp 
+  134  g++ helpfulmaths.cpp -o helpfulmaths
+  135  ./helpfulmaths
+  136  nano helpfulmaths.cpp 
+  137  g++ helpfulmaths.cpp -o helpfulmaths
+  138  ./helpfulmaths
+  139  nano helpfulmaths.cpp 
+  140  g++ helpfulmaths.cpp -o helpfulmaths
+  141  ./helpfulmaths
+  142  nano helpfulmaths.cpp 
+  143  g++ helpfulmaths.cpp -o helpfulmaths
+  144  ./helpfulmaths
+  145  nano helpfulmaths.cpp 
+  146  g++ helpfulmaths.cpp -o helpfulmaths
+  147  ./helpfulmaths
+  148  ls
+  149  nano helpfulmaths.cpp 
+  150  g++ helpfulmaths.cpp -o helpfulmaths
+  151  ./helpfulmaths
+  152  nano helpfulmaths.cpp 
+  153  g++ helpfulmaths.cpp -o helpfulmaths
+  154  ./helpfulmaths
+  155  nano helpfulmaths.cpp 
+  156  g++ helpfulmaths.cpp -o helpfulmaths
+  157  ./helpfulmaths
+  158  nano helpfulmaths.cpp 
+  159  g++ helpfulmaths.cpp -o helpfulmaths
+  160  ./helpfulmaths
+  161  g++ helpfulmaths.cpp -o helpfulmaths
+  162  ./helpfulmaths
+  163  nano helpfulmaths.py
+  164  python3 helpfulmaths.py 
+  165  clear
+  166  nano helpfulmaths.py
+  167  python3 helpfulmaths.py 
+  168  nano helpfulmaths.py
+  169  python3 helpfulmaths.py 
+  170  nano helpfulmaths.py
+  171  python3 helpfulmaths.py 
+  172  nano helpfulmaths.py
+  173  python3 helpfulmaths.py 
+  174  nano helpfulmaths.py
+  175  python3 helpfulmaths.py 
+  176  nano boysorgirls.cpp
+  177  g++ boysorgirls.cpp -o boysorgirls
+  178  ./boysorgirls
+  179  nano wordcapitalization.cpp
+  180  g++ wordcapitalization.cpp -o wordcapitalization
+  181  nano wordcapitalization.cpp
+  182  g++ wordcapitalization.cpp -o wordcapitalization
+  183  ./wordcapitalization
+  184  nano bigbrother.cpp
+  185  g++ bigbrother.cpp bigbrother
+  186  nano bigbrother.cpp
+  187  g++ bigbrother.cpp bigbrother
+  188  g++ bigbrother.cpp -o bigbrother
+  189  ./bigbrother
+  190  ls
+  191  rm beautifulmatrix bits helpfulmaths pstrings watermelon boysorgirls wordcapitalization bigbrother boysorgirls team wordstoolong dominos
+  192  ls
+  193  rm nextround
+  194  ls
+  195  clear
+  196  exit
+  197  ls
+  198  cd Videos/problems/
+  199  ls
+  200  clear
+  201  nano elephant.cpp
+  202  cat elephant.cpp 
+  203  g++ elephant.cpp -o elephant
+  204  nano elephant.cpp
+  205  g++ elephant.cpp -o elephant
+  206  ./elephant
+  207  nano elephant.cpp
+  208  g++ elephant.cpp -o elephant
+  209  ./elephant
+  210  nano elephant.cpp
+  211  g++ elephant.cpp -o elephant
+  212  ./elephant
+  213  nano elephant.cpp
+  214  g++ elephant.cpp -o elephant
+  215  ./elephant
+  216  g++ elephant.cpp -o elephant
+  217  nano elephant.cpp
+  218  g++ elephant.cpp -o elephant
+  219  ./elephant
+  220  nano soldier_and_bananas.cpp
+  221  g++ soldier_and_bananas.cpp -o soldier_and_bananas
+  222  ./soldier_and_bananas
+  223  nano soldier_and_bananas.cpp
+  224  g++ soldier_and_bananas.cpp -o soldier_and_bananas
+  225  ./soldier_and_bananas
+  226  nano soldier_and_bananas.cpp
+  227  g++ soldier_and_bananas.cpp -o soldier_and_bananas
+  228  ./soldier_and_bananas
+  229  nano soldier_and_bananas.cpp
+  230  g++ soldier_and_bananas.cpp -o soldier_and_bananas
+  231  ./soldier_and_bananas
+  232  nano soldier_and_bananas.cpp
+  233  nano standardword.cpp
+  234  g++ standardword.cpp -o standardword
+  235  nano standardword.cpp 
+  236  g++ standardword.cpp -o standardword
+  237  nano standardword.cpp 
+  238  g++ standardword.cpp -o standardword
+  239  nano standardword.cpp 
+  240  g++ standardword.cpp -o standardword
+  241  ./standardword
+  242  nano wrong_subtraction.cpp
+  243  g++ wrong_subtraction.cpp -o wrong_subtraction
+  244  ./wrong_subtraction
+  245  nano wrong_subtraction.cpp
+  246  g++ wrong_subtraction.cpp -o wrong_subtraction
+  247  ./wrong_subtraction
+  248  ls
+  249  rm not 
+  250  not
+  251  clear
+  252  ls
+  253  ls | grep -v '\.cpp$'
+  254  ls | grep -v '\.cpp,.py$'
+  255  ls | grep -v '\.cpp' '\.py
+
+
+
+'
+  256  rm $(ls | grep -v '\.cpp$\|\.py$')
+  257  ls
+  258  clear
+  259  history
+  260  history >file.txt
